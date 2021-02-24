@@ -18,4 +18,4 @@ steps:
 
 There is currently no way of accessing the server console, so you will have to execute them from the Minecraft Client.
 
-Video instructions: 
+Video instructions: https://youtu.be/EBzkSDBmaoU

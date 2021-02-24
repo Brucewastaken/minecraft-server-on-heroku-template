@@ -6,7 +6,7 @@ steps:
 3. Create a ngrok account on https://ngrok.com and paste the auth token in .ngrok2/ngrok.yml
 4. Commit and push.
 5. Create a heroku account on https://heroku.com and create an app. In the "Deploy" tab, connect to github and your repo.
-6. Go to the "Settings" tab, click on "add buildpack", and add the following: node.js, PHP, python, Java, and paste "https://github.com/jkutner/heroku-buildpack-ngrok.git" into the buildpack url.
+6. Go to the "Settings" tab, click on "add buildpack", and add the following: node.js, PHP, python, Java, and paste "https://github.com/jkutner/heroku-buildpack-ngrok.git" (without the quotation marks ofc) into the buildpack url.
 7. Go to the "Resouces" tab, and in the "add-ons" section, add Heroku Postgres.
 8. Head back on to the "Deploy" section, scroll down to the Manual Deploy section, and click "Deploy Branch". 
 9. After the app deploys, head to the "Resources" tab and disable the "web python3 main.py" and enable "worker node setup.js".

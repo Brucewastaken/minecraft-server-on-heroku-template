@@ -19,3 +19,7 @@ steps:
 There is currently no way of accessing the server console, so you will have to execute them from the Minecraft Client.
 
 Video instructions: https://youtu.be/EBzkSDBmaoU
+
+If you want to use other servers, make sure to modify the code (if you know how) and the python script (if you know the output after it is done).
+
+To use jdk 11 or 15, refer to https://devcenter.heroku.com/changelog-items/1489 and https://devcenter.heroku.com/changelog-items/1887

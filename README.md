@@ -20,6 +20,6 @@ There is currently no way of accessing the server console, so you will have to e
 
 Video instructions: https://youtu.be/EBzkSDBmaoU
 
-If you want to use other servers, make sure to modify the code (if you know how) and the python script (if you know the output after it is done).
+If you want to use another server thats not vanilla or spigot, the process would be the same: rename the server to server.jar, run it locally to set it up, and then push and deploy.
 
 To use jdk 11 or 15, refer to https://devcenter.heroku.com/changelog-items/1489 and https://devcenter.heroku.com/changelog-items/1887
